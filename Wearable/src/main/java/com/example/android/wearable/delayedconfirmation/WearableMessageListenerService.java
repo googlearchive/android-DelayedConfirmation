@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.delayedconfirmation;
+package com.example.android.wearable.delayedconfirmation;
 
 import android.content.Intent;
 
